@@ -22,7 +22,7 @@ aboutMe = {
 }
 skilss = {
   "linguagens" : "Python, SQL, NoSQL, Java, Git",
-  "ferramentas": "PowerBI, Exel, VsCode, VisualStudio, PyCharm, MongoDB, SQL Developer, MySQL Workbench",
+  "ferramentas": "PowerBI, Exel, VsCode, GoogleColab, PyCharm, MongoDB, SQL Developer, MySQL Workbench",
   "curiosidades": "HTML, CSS, JS"
 }
 ```
