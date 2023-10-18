@@ -94,3 +94,5 @@ skilss = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheussato&theme=tokyonight&layout=compact" alt="Top Languages">
 
   </div>
+
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f25278&height=120&section=footer"/>
