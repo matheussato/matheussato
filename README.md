@@ -25,7 +25,7 @@ aboutMe = {
 skilss = {
   "linguagens" : "Python, SQL, NoSQL, Java, Git",
   "ferramentas": "PowerBI, Exel, VsCode, GoogleColab, PyCharm, MongoDB, SQL Developer, MySQL Workbench",
-  "curiosidades": "HTML, CSS, JS"
+  "curiosidades": "Java, C#"
 }
 ```
 <h1 align="center">
