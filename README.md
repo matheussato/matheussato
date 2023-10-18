@@ -92,8 +92,3 @@ skilss = {
 <div align="center">
   <h3>Top Languages</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheussato&theme=tokyonight&layout=compact" alt="Top Languages">
-  
-  <h3>GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=matheussato&show_icons=true&theme=tokyonight" alt="GitHub Stats of matheussato">
-</div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f25278&height=120&section=footer"/>
