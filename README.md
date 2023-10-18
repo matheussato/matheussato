@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="./style.css">
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f25278&height=120&section=header"/>
 
 <h1 align="center">
@@ -19,7 +21,7 @@ aboutMe = {
   "nome":"Matheus Sato",
   "local":"São Paulo - SP",
   "curso": "Análise e Desenvolvimento de Sistemas - FIAP",
-  "hobbies":"Escutar música, visitar restaurantes, cinema, cozinhar e academia"
+  "hobbies":"Escutar música, visitar restaurantes, cinema, cozinhar e esportes"
   "objetivo":"Trabalhar na área de Data Science"
 }
 skilss = {
