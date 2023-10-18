@@ -1,6 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f25278&height=120&section=header"/>
+
 <h1 align="center">
-  Hello World 👋
+  print("Hello World 👋")
 </h1>
 
 <div align="center">
