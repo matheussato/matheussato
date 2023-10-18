@@ -30,6 +30,9 @@ skilss = {
   "curiosidades": "Java, C#"
 }
 ```
+
+<br>
+
 <h1 align="center">
   Connect with me: 👇
 </h1>
@@ -79,6 +82,8 @@ skilss = {
     </a>
   </p>
 </section>
+      
+<br>
 
 <h1 align="center">
   Statistics 📈
