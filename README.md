@@ -20,7 +20,7 @@
 aboutMe = {
   "nome":"Matheus Sato",
   "local":"São Paulo - SP",
-  "curso": "Análise e Desenvolvimento de Sistemas - FIAP",
+  "curso": "Ciência da Computação - SENAC",
   "hobbies":"Escutar música, visitar restaurantes, cinema, cozinhar e esportes"
   "objetivo":"Trabalhar na área de Data Science"
 }
